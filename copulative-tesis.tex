@@ -1,0 +1,66 @@
+\documentclass[11pt,a4paper,twoside,openright]{book}
+\usepackage[headheight=35pt,tmargin=2cm,bmargin=2cm,lmargin=3cm,rmargin=3cm]{geometry}
+\usepackage[spanish,es-noquoting]{babel}
+\usepackage{pstricks}
+\usepackage{pst-jtree}
+\usepackage[utf8]{inputenc}
+\usepackage[expert,uprightgreek,altbullet]{lucidabr}
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
+\usepackage{graphicx}
+\usepackage{tipa} 
+\usepackage{expex}
+\usepackage[autostyle]{csquotes}
+\usepackage[Rejne]{fncychap}
+\usepackage{makeidx}
+\usepackage{minitoc}
+\usepackage{fancyhdr}
+\usepackage[normalem]{ulem}
+\usepackage[dvips,colorlinks,linkcolor=blue,citecolor=blue]{hyperref}
+\usepackage[anythingbreaks]{breakurl}
+\usepackage[backend=biber,style=authoryear]{biblatex}
+\addbibresource{copulative.bib}
+\everymath={\rm}
+ \DeclareOldFontCommand{\rm}{\normalfont\rmfamily}{\mathrm}
+\pagestyle{fancy}
+
+%Espacio-----------------------------------------------------------
+
+\newlength{\defbaselineskip}
+\setlength{\defbaselineskip}{\baselineskip}
+\newcommand{\setlinespacing}[1]%
+           {\setlength{\baselineskip}{#1 \defbaselineskip}}
+%--------------------------------------------------------------
+\pagestyle{fancy}
+\fancyhf{} %
+\fancyhead[LE,RO]{\bfseries{\thepage}}
+\fancyhead[RE]{\nouppercase \leftmark}
+\fancyhead[LO]{\nouppercase \rightmark}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\renewcommand{\sectionmark}[1]{\markright{\thesection\ \ #1}}
+
+
+\def\TO{\quad$\rightarrow$\quad}
+
+\title{Las estructuras de predicación y la elección de cópula}
+\author{Norberto Moreno Quibén}
+%\affiliation{Universidad de Alcalá}
+
+\date{2 de noviembre de 2019}
+
+\makeindex
+\begin{document}
+\maketitle
+
+\tableofcontents
+
+\setlinespacing{1.66}
+
+\include{cap01}
+
+
+\printbibliography
+
+\printindex
+\setlinespacing{1.44}
+\end{document}
