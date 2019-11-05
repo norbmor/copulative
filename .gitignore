@@ -1,0 +1,7 @@
+# ignore folder named texpadtmp
+
+.texpadtmp/
+
+# ignore files
+
+arco-libros-NMQ.docx
