@@ -1,0 +1,62 @@
+### Grande grammatica italiana di consultazione (vol II.) «Le frasi copulative»
+
+División semántica de las frases copulativas: predicativas y especificativas
+
+En la frase predicativa el elemento que precede a *essere*, el sujeto, es un elemento referencial mientras que el elemento que sigue a *essere*, expresa una propiedad que se atribuye al elemento referencial (una propiedad inherente o transitoria).
+
+1. Maria è bella / arrabbiata / di parola / senza scrupoli.
+2. Giovanni é medico / presidente di una società.
+3. Giovanni è un buon medico.
+4. Piero è (un) amico di Maria
+5. Bruno è il presidente della cooperativa
+6. Bruno è il mio miglior amico
+
+Locativos espaciales o temporales
+
+1. Il tuo amico è in casa.
+2. Il concerto sarà domani.
+
+o una determinación posesiva
+
+1. Questa casa è di Piero / (la) mia.
+
+o cualquier otra determinación circunstancial
+
+1. Questo libro è per te.
+2. L'incontro di domani è con Maria
+
+
+En la frase especificativa, el elemento que precede a *essere* expresa una propiedad (el «specificando») y el constituyente que sigue a *essere* («especificador») es el referente al que se atribuye dicha propiedad.
+
+1. La causa di tutto è la sete de guadagno.
+2. El vincitori è Giovanni.
+
+La función de la frase especficativa es especificar a qué se atribuye cierta propiedad.
+
+La frase predicativa y la especificativa son espejo una de otra.
+
+1. Maria é la ragazza più bella 	Predicative
+2. La ragazza piú bella é Maria 	Specificative
+
+La distinción predicativa-especificatia no siempre es fácil, sobre todo cuando los dos elementos tienen el mismo grado de referencialidad.
+
+1. Il presidente del club è il mio migliore amico.
+
+Interpretación predicativa y especificativa: Pred: se atribuye al individuo identificado con la propiedad de ser el presidente del club la propiedad de ser mi mejor amigo; Especficativa: se afirma quién tiene la propiedad de ser el presidente del club, a saber, el individuo identificado con la propiedad de ser mi mejor amigo.
+
+#### Frasi identificativa
+
+En la frase copulativa los elementos pueden ser dos elementos referenciales
+
+1. Piero è il prima da sinistra.
+2. Il primo da sinistra è Piero.
+
+Nombre propio y expresión deíctica. La función de la frase identificativa es similar a la de la especificativa: identificar un referente.
+
+Ambigüedad predicativa - identificativa
+
+1. Carlo è ingegnere.
+2. Carlo è un ingegnere.
+3. Chi è Carlo? è un ingegnere (expresión referencial indefinida) / è un ingegnere che ho conosciuto l'anno scorso.
+4. Cosa fa Carlo? è (un) ingegnere
+
